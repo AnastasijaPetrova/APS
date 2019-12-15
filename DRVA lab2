@@ -1,5 +1,9 @@
 //Нерекурзивно изминување во preorder 
 //DRVA
+Да се напише функција preorderNonRecursive за нерекурзивно изминување на бинарно стебло во preorder.
+
+Име на класата: PreorderNonRecursive
+
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
