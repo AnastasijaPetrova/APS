@@ -1,2 +1,2 @@
 # APS
-Algotirmi
+Algotirmi i podatocni strukturi
